@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+  }
+body{
+    background: linear-gradient(180deg, rgba(255,229,197,1) 0%, rgba(255,214,167,1) 80%, rgba(69,60,49,1) 100%) no-repeat;
+}
+div[class~="header"]{
+    text-align: center;
+}
