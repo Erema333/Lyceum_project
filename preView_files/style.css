@@ -1,0 +1,94 @@
+/* html, body {
+    min-height: 100%;
+    min-width: 100%;
+    margin: 0%;
+    
+  }
+body{
+    background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 80%, rgb(255, 255, 255) 100%) no-repeat;
+}
+.otsup{
+    padding-left: 5%;
+}
+
+.row{
+    padding: 5px 5px;
+    background-color: rgb(6, 135, 179);
+}
+
+.shortStyle{
+    font-weight: bold;
+    width: 100%;
+    padding-left: 0.5%;
+    transform: scaleX(1);
+    transform: scaleY(1);
+    font-family: 'Century Gothic';
+}
+
+.okontovka{
+   max-width: 20%;
+    border: thick solid black;
+    margin-right: 2%;
+    padding: center;
+    
+    
+    
+}
+.okontovkaForTask{
+    max-width: 30%;
+    
+     border: thick solid black;
+     padding: center;
+}
+.posHor{
+    position: absolute;
+    display: inline-flex;
+    
+}
+.projectStyle{
+    
+    
+    max-width: 15%;
+    font-size: larger;
+    background-color: rgb(37, 181, 229);
+}
+.padCenter{
+    
+    padding: center;
+    
+}
+.projects{
+    text-align: center;
+    margin-top: 3%;
+    transform: scaleX(2);
+    transform: scaleY(1);
+    font-size: larger;
+    margin-left: 5%;
+    max-width: 130%;
+}
+
+.vertical-center {   
+  
+    display: flex;
+    align-items: center;
+}
+ */
+
+ 
+.otstup{
+    padding-top: 3%;
+}
+.foning{
+    min-height: 14dvh;
+    background: rgb(142, 123, 219);
+}
+.textCenter{
+    text-align: center;
+}
+.vertical-center{
+    display: flex;
+
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+}
